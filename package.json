@@ -1,0 +1,7 @@
+{
+  "name": "cli-automation-function",
+  "version": "1.0.0",
+  "dependencies": {
+    "@pnp/cli-microsoft365": "^5.6.0"
+  }
+}
